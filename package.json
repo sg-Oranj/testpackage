@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sg-Oranj/testpackage/issues"
   },
-  "homepage": "https://github.com/sg-Oranj/testpackage#readme"
+  "homepage": "https://github.com/sg-Oranj/testpackage#readme",
+  "publishConfig": {
+    "@sg-Oranj:registry": "https://npm.pkg.github.com"
+  }
 }
